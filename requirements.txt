@@ -7,3 +7,5 @@ tgcrypto
 lxml
 lk21
 cfscrape
+flask
+flask_restful
